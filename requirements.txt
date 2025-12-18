@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+joblib
+jupyter
+fastapi
+uvicorn
+pydantic
+mlflow
+mlflow-elasticsearchstore
+elasticsearch
+requests
+elasticsearch-dsl
+psutil

@@ -1,0 +1,15 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+data/
+# Ignore data files
+cleaned_datadelevry.csv
+ml_mlops_miniprojet.ipynb
+
+# Optional: ignore Jupyter checkpoints if any
+.ipynb_checkpoints/
